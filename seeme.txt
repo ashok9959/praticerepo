@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 this is file commit 1
 this is file commit 2
 this is file commit 3
+=======
+this is file commit 1
+>>>>>>> parent of b24f1ef (file line 2 committed seeme file)
